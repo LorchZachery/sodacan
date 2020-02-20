@@ -2,6 +2,7 @@ No models are currently in this project go to https://github.com/tensorflow/mode
 to download models.
 
 ## For ssd_mobilenet_v1_coco 
+to select the sodacan from an image and creat a .xml use https://github.com/tzutalin/labelImg
 *after adding .xml and creating a cvs out of it*
 
 code to create tfrecords
