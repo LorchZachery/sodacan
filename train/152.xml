@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>152.jpg</filename>
+	<path>C:\Users\C21Zachery.Lorch\Documents\499\images\152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>136</ymin>
+			<xmax>443</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
